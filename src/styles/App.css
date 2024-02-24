@@ -1,1 +1,18 @@
 
+.parent{
+    background-color: #73fb01;
+    padding: 20px;
+}
+.parent input {
+    padding: 10px;
+}
+.child{
+    background-color: #ca5f1b;
+    padding: 10px;
+    margin: 5px;
+
+}
+.list{
+    display: flex;
+    gap: 4px;
+}
